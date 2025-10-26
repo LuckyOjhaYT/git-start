@@ -1,0 +1,3 @@
+personal file, i dont want to upload to git.
+username - LUCKYOJHAYT
+password - ojhaLucky
